@@ -1,0 +1,15 @@
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 5\Ejercicios_listas_4\bin\Debug\net8.0\Ejercicios_Listas_4.exe
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 5\Ejercicios_listas_4\bin\Debug\net8.0\Ejercicios_Listas_4.deps.json
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 5\Ejercicios_listas_4\bin\Debug\net8.0\Ejercicios_Listas_4.runtimeconfig.json
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 5\Ejercicios_listas_4\bin\Debug\net8.0\Ejercicios_Listas_4.dll
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 5\Ejercicios_listas_4\bin\Debug\net8.0\Ejercicios_Listas_4.pdb
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 5\Ejercicios_listas_4\obj\Debug\net8.0\Ejercicios_Listas_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 5\Ejercicios_listas_4\obj\Debug\net8.0\Ejercicios_Listas_4.AssemblyInfoInputs.cache
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 5\Ejercicios_listas_4\obj\Debug\net8.0\Ejercicios_Listas_4.AssemblyInfo.cs
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 5\Ejercicios_listas_4\obj\Debug\net8.0\Ejercicios_Listas_4.csproj.CoreCompileInputs.cache
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 5\Ejercicios_listas_4\obj\Debug\net8.0\Ejercicios_Listas_4.sourcelink.json
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 5\Ejercicios_listas_4\obj\Debug\net8.0\Ejercicios_Listas_4.dll
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 5\Ejercicios_listas_4\obj\Debug\net8.0\refint\Ejercicios_Listas_4.dll
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 5\Ejercicios_listas_4\obj\Debug\net8.0\Ejercicios_Listas_4.pdb
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 5\Ejercicios_listas_4\obj\Debug\net8.0\Ejercicios_Listas_4.genruntimeconfig.cache
+D:\Downloads\Ingeniería de la Información\Tercer Nivel\Estructura de Datos\Semana 5\Ejercicios_listas_4\obj\Debug\net8.0\ref\Ejercicios_Listas_4.dll
